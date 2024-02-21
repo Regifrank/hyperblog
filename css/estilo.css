@@ -1,10 +1,6 @@
 body 
 {
-<<<<<<< HEAD
     color: #1f244d;
-=======
-    color: #5e2055;
->>>>>>> cabecera
     text-align: center;
     font-family: 'Lucida Sans';
     font-size: 18px;
@@ -13,7 +9,7 @@ body
 }
 #cabecera
 {
-    background: #3a970e;
+    background: #238d4f;
     box-shadow: 0px 2px 20px 0px grba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -40,5 +36,11 @@ body
 }
 #post
 {
-
+padding: 1em;
+}
+#footer
+{
+    background: #1fb6a2;
+    color: rgb(10, 7, 7);
+    text-align: center;
 }
